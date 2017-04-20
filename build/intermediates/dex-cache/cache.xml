@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\stefano\AndroidStudioProjects\GArt\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\stefano\AndroidStudioProjects\GArt\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-ee0a947e88df89a59daa07ba08508b181508035d.jar" />
+    </item>
+    <item
+        jar="C:\Users\stefano\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.2\d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27\picasso-2.3.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="C:\Users\stefano\AndroidStudioProjects\GArt\app\build\intermediates\pre-dexed\debug\picasso-2.3.2-f09dd91e6640503a4d8bae96e1b57615932f27a7.jar" />
+    </item>
+    <item
+        jar="C:\Users\stefano\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\stefano\AndroidStudioProjects\GArt\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-52c4a2ef48becd84f51079db2727f200a0b80fb8.jar" />
+    </item>
+    <item
+        jar="C:\Users\stefano\AndroidStudioProjects\GArt\app\build\intermediates\exploded-aar\GArt.libraries\opencv\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ebedcf002bd1a56daed6e30c6ef419dffde8b10f">
+        <dex dex="C:\Users\stefano\AndroidStudioProjects\GArt\app\build\intermediates\pre-dexed\debug\classes-a56932d8df7f6536f401470d827ae8505124f39d.jar" />
+    </item>
+    <item
+        jar="C:\Users\stefano\AndroidStudioProjects\GArt\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\stefano\AndroidStudioProjects\GArt\app\build\intermediates\pre-dexed\debug\classes-5ae5ed2fb00d50191a3e8250a40ada7bfccfad1c.jar" />
+    </item>
+    <item
+        jar="C:\Users\stefano\AndroidStudioProjects\GArt\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\stefano\AndroidStudioProjects\GArt\app\build\intermediates\pre-dexed\debug\classes-8e0cb2bcdc4c1c26df0ccde63d490f016f73b11b.jar" />
+    </item>
+    <item
+        jar="C:\Users\stefano\AndroidStudioProjects\GArt\app\build\intermediates\exploded-aar\GArt\openCVLibrary300rc1\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="67df887b3f272d190859b469756d678ade693aad">
+        <dex dex="C:\Users\stefano\AndroidStudioProjects\GArt\app\build\intermediates\pre-dexed\debug\classes-8b79424775f96304fb8975fd29dbf6850f59e12f.jar" />
+    </item>
+
+</items>
