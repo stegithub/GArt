@@ -663,7 +663,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
         if(id == R.id.enableWiFi){
-            WifiManager wifiManager = (WifiManager) this.getSystemService(Context.WIFI_SERVICE);
+            WifiManager wifiManager = (WifiManager) this.getApplicationContext().getSystemService(Context.WIFI_SERVICE);
             boolean wifiEnabled = wifiManager.isWifiEnabled();
             if(wifiEnabled){
                 return true;
