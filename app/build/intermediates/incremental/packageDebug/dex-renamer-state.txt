@@ -1,0 +1,7 @@
+#Sat Apr 22 00:33:17 CEST 2017
+base.0=E\:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8021ce6631f9e6c3710286727ecf2ba9fadd2dea
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6d4852139923c35e066b055b9b05dd27bbb89534\\classes.dex
+base.1=E\:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6d4852139923c35e066b055b9b05dd27bbb89534
+file.0=E\:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8021ce6631f9e6c3710286727ecf2ba9fadd2dea\\classes.dex

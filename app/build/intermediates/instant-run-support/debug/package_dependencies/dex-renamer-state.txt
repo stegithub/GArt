@@ -1,0 +1,16 @@
+#Fri Apr 21 23:35:03 CEST 2017
+renamed.4=classes4.dex
+renamed.3=classes2.dex
+renamed.2=classes.dex
+renamed.1=classes3.dex
+base.4=E\:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\picasso-2.3.2_fd80d498d7ac2c44c0d79bdb0132ef8a50af9af3
+renamed.0=classes5.dex
+base.3=E\:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_debff5ba4be77029592dbc144caf5656e944a44b
+base.2=E\:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_cdd6d6f4e56fbd86ef1114c640823e6dce400408
+base.1=E\:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.1.1_89aa8f52d9aa529fbd498bc2a63fa43a89c91ebe
+base.0=E\:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.1.1_dea8ed944ffb4d8460a15de5f9e5a9febe96ab8c
+file.4=E\:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\picasso-2.3.2_fd80d498d7ac2c44c0d79bdb0132ef8a50af9af3\\classes.dex
+file.3=E\:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_debff5ba4be77029592dbc144caf5656e944a44b\\classes.dex
+file.2=E\:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_cdd6d6f4e56fbd86ef1114c640823e6dce400408\\classes.dex
+file.1=E\:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.1.1_89aa8f52d9aa529fbd498bc2a63fa43a89c91ebe\\classes.dex
+file.0=E\:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.1.1_dea8ed944ffb4d8460a15de5f9e5a9febe96ab8c\\classes.dex

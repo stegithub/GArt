@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\build\\intermediates\\res\\merged\\debug\\menu\\action_items.xml",
+        "source": "E:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\src\\main\\res\\menu\\action_items.xml"
+    },
+    {
+        "merged": "E:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_picasso_gallery.xml",
+        "source": "E:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\src\\main\\res\\menu\\menu_picasso_gallery.xml"
+    },
+    {
+        "merged": "E:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_detail.xml",
+        "source": "E:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\src\\main\\res\\menu\\menu_detail.xml"
+    },
+    {
+        "merged": "E:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_multi_choice.xml",
+        "source": "E:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\src\\main\\res\\menu\\menu_multi_choice.xml"
+    },
+    {
+        "merged": "E:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_sd_card.xml",
+        "source": "E:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\src\\main\\res\\menu\\menu_sd_card.xml"
+    },
+    {
+        "merged": "E:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_grid_view2.xml",
+        "source": "E:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\src\\main\\res\\menu\\menu_grid_view2.xml"
+    },
+    {
+        "merged": "E:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_search_peers.xml",
+        "source": "E:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\src\\main\\res\\menu\\menu_search_peers.xml"
+    },
+    {
+        "merged": "E:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_camera_capture.xml",
+        "source": "E:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\src\\main\\res\\menu\\menu_camera_capture.xml"
+    },
+    {
+        "merged": "E:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\build\\intermediates\\res\\merged\\debug\\menu\\action.xml",
+        "source": "E:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\src\\main\\res\\menu\\action.xml"
+    },
+    {
+        "merged": "E:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_ext_sd_card.xml",
+        "source": "E:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\src\\main\\res\\menu\\menu_ext_sd_card.xml"
+    },
+    {
+        "merged": "E:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "E:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]

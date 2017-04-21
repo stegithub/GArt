@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "E:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_action_discover.png",
+        "source": "E:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\src\\main\\res\\drawable-ldpi\\ic_action_discover.png"
+    },
+    {
+        "merged": "E:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_action_on_off.png",
+        "source": "E:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\src\\main\\res\\drawable-ldpi\\ic_action_on_off.png"
+    },
+    {
+        "merged": "E:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon.png",
+        "source": "E:\\Ste\\Android\\Progetti\\GArt_05_11\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    }
+]
